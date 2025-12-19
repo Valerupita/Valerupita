@@ -1,5 +1,5 @@
 <div align="center">
-<img src="assets/header.png" width="100%" alt="Valery Header" />
+<img src="assets/header.png" width="100%" height="250px" style="object-fit: cover;" alt="Valery Header" />
 
 # ¡Hola! Soy Valery ✨
 ### Aprendiz Autodidacta � | UX/UI Enthusiast 🎨 | Explorer of Knowledge 📚
