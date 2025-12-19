@@ -1,8 +1,8 @@
 <div align="center">
-<img src="assets/header.png" width="100%" height="250px" style="object-fit: cover;" alt="Valery Header" />
+<img src="assets/8RN9t5F.gif" width="100%" alt="Valery Header" />
 
-# ¡Hola! Soy Valery ✨
-### Aprendiz Autodidacta � | UX/UI Enthusiast 🎨 | Explorer of Knowledge 📚
+# Hi! I'm Valery ✨
+### Self-Taught Learner | UX/UI Enthusiast 🎨 | Explorer of Knowledge 📚
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=valerupita&color=blueviolet&style=flat-square" alt="Views" />
@@ -10,25 +10,24 @@
 
 ---
 
-### 👩‍💻 Sobre mí
-Soy una persona **100% autodidacta**. Mi camino está guiado por la curiosidad y la pasión por aprender. Actualmente, estoy sumergida en el mundo del **UX/UI Design**, donde disfruto transformando ideas en experiencias visuales funcionales.
+### 👩‍💻 About Me
+I am a **100% self-taught person**. My path is guided by curiosity and a passion for learning. Currently, I am immersed in the world of **UX/UI Design**, where I enjoy transforming ideas into functional visual experiences.
 
-Me dedico a trabajar en distintos proyectos de forma independiente para poner a prueba mis habilidades, adquirir nuevos conocimientos y desarrollar un pensamiento crítico y creativo en cada paso que doy.
+I dedicate myself to working on various independent projects to test my skills, acquire new knowledge, and develop critical and creative thinking in every step I take.
 
 ---
 
+### 🛠️ Focus Areas & Learning
 
-### 🛠️ Áreas de Enfoque & Aprendizaje
-
-| **Desarrollo & Lógica** | **Diseño & Experiencia** |
+| **Development & Logic** | **Design & Experience** |
 | :--- | :--- |
-| ![SelfTaught](https://img.shields.io/badge/Aprendizaje-Autodidacta-brightgreen?style=for-the-badge) | ![Figma](https://img.shields.io/badge/Figma-Diseño-F24E1E?style=for-the-badge&logo=figma&logoColor=white) |
-| ![Projects](https://img.shields.io/badge/Proyectos-En_Desarrollo-blueviolet?style=for-the-badge) | ![UXUI](https://img.shields.io/badge/UX/UI-Focus-FF61F6?style=for-the-badge) |
-| ![Adaptability](https://img.shields.io/badge/Habilidad-Adaptación-00599C?style=for-the-badge) | ![Creative](https://img.shields.io/badge/Creatividad-Visual-FF69B4?style=for-the-badge) |
+| ![SelfTaught](https://img.shields.io/badge/Self--Taught-Learning-brightgreen?style=for-the-badge) | ![Figma](https://img.shields.io/badge/Figma-Design-F24E1E?style=for-the-badge&logo=figma&logoColor=white) |
+| ![Projects](https://img.shields.io/badge/Projects-In_Development-blueviolet?style=for-the-badge) | ![UXUI](https://img.shields.io/badge/UX/UI-Focus-FF61F6?style=for-the-badge) |
+| ![Adaptability](https://img.shields.io/badge/Adaptability-Skill-00599C?style=for-the-badge) | ![Creative](https://img.shields.io/badge/Visual-Creativity-FF69B4?style=for-the-badge) |
 
 ---
 
-### 📉 Mi Actividad en GitHub
+### 📉 My GitHub Activity
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=valerupita&show_icons=true&theme=dracula&count_private=true" alt="Valery GitHub Stats" height="180px" />
@@ -37,10 +36,19 @@ Me dedico a trabajar en distintos proyectos de forma independiente para poner a 
 
 ---
 
-### 🌱 Mi Manifiesto de Aprendizaje
-- Cada proyecto es una oportunidad para fallar, aprender y mejorar.
-- Mi objetivo es crear interfaces que no solo se vean bien, sino que se sientan bien.
+### 🌱 My Learning Manifesto
+- Every project is an opportunity to fail, learn, and improve.
+- My goal is to create interfaces that not only look good but feel good.
 
 ---
+
+## Fullstack IoT Developer
+
+🌍 I'm based in Peru<br>
+🚀 I'm currently working on [Joyan](https://joyan.dev)<br>
+🤝 I'm open to collaborating on IoT Projects
+
+<a href="https://www.github.com/valerupita" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/valerupita?logo=github&style=for-the-badge&color=ef4444&labelColor=181824" /></a>
 
 </div>
